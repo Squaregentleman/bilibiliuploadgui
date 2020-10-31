@@ -4,7 +4,4 @@ idna>=2.9
 pyasn1>=0.4.8
 requests>=2.23.0
 rsa>=4.0
-urllib3>=1.25.9
-tkinter
-threading
 configparser
